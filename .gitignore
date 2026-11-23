@@ -1,0 +1,13 @@
+# Arquivos de sistema e temporários
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+.env
+.env.*
+
+# Arquivos internos de levantamento e rascunho
+dados.txt
+dossie_autoescola.md
+video/
